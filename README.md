@@ -16,7 +16,7 @@ npm run build
 ```
 
 ## 浏览
-rowse [AmanMultSystem](http://119.29.160.104:8080/).
+点击浏览 [AmanMultSystem](http://119.29.160.104:8080/).
 ```
 user:admin
 password:admin
